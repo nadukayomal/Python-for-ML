@@ -15,3 +15,18 @@ print(a**b)
 print(name)
 
 
+a = 10
+b = 20
+
+c = (a ^ b)
+c = (a != b)
+c = (a == b)
+
+print(c)
+print(c, type(c))
+
+
+x, y, z = 10 , 20 , 40
+print(x)
+print(y)
+print(z)
