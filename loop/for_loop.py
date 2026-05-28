@@ -22,6 +22,6 @@ for index, value in enumerate(x):
     print(index, value)
 
 print("\n")
-
+    
 for item in range(0,10):
     print(item, type(item))
